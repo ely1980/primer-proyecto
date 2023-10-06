@@ -1,0 +1,30 @@
+.carousel-item img {
+    height: 90vh;
+}
+
+.fuente {
+    color: greenyellow !important;
+}
+
+
+.carousel-item img {
+    height: 100vh;
+}
+.titulo {
+    color: greenyellow !important;
+    font-family: 'Oxanium', cursive !important;
+}
+
+
+
+body {
+    background-color: darkslategrey !important;
+}
+.cambios {
+    font-family: 'Oxanium', cursive !important; 
+    
+}
+span {
+    color: greenyellow !important;
+    font-family: 'Oxanium', cursive !important;
+}
